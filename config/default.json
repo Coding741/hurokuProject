@@ -1,0 +1,10 @@
+{
+    "env":"",
+    "PORT":"",
+    "user":"",
+    "host":"",
+    "database":"",
+    "password":"",
+    "dbport":"",
+    "jwtPrivateKey":""
+} 
